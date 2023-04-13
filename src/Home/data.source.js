@@ -38,6 +38,7 @@ export const Banner30DataSource = {
       {
         name: 'button',
         className: 'banner3-button',
+        onClick: (e) => { window.location.href = "mailto:accounts@appletechpie.com"; e.preventDefault(); },
         children: (
           <span>
             <p>Get a Free Quote</p>
@@ -103,15 +104,16 @@ export const Content30DataSource = {
             className: 'content3-content',
             children: (
               <span>
-                <span>
-                  <span>
-                    <span>
-                      <p>Web app development</p>
-                      <p>Responsive design for mobile</p>
-                      <p>Modern CI/CD tools</p>
-                    </span>
-                  </span>
-                </span>
+                <p>- CMS Websites Development</p>
+                <p>- On-demand Web Applications</p>
+                <p>- Progressive Web App (PWA)</p>
+                <p>- Custom-Facing Web Portals to CRM Systems</p>
+                <p>- ERP Systems & Automation Systems</p>
+                <p>- Enterprise Intranet & Extranets</p>
+                <p>- Information Portals to Corporates B2B/ B2C Websites</p>
+                <p>- Modern CI/CD tools</p>
+                <br />
+                <p>Apple Tech Pie offers optimum solutions for native and cross-platform mobile application development that helps to discover mobility with an innovative, unique and scalable approach. Our expertise with cross-platform mobile apps helps you create a roadmap based on a solid mobile strategy that successfully leads the way to your final enterprise goals and expectations. The mobile application will remain scalable with your business needs.</p>
               </span>
             ),
           },
@@ -143,21 +145,16 @@ export const Content30DataSource = {
             className: 'content3-content',
             children: (
               <span>
-                <p>
-                  Blockchain Based Distribution Application Development (DApp)
-                </p>
-                <p>
-                  Blockchain Solution Consulting
-                  <br />
-                </p>
-                <p>
-                  Cryptocurrency Wallet
-                  <br />
-                </p>
-                <p>
-                  Decentralized Exchange Development
-                  <br />
-                </p>
+                <p>- Blockchain Based Distribution Application Development (DApp)</p>
+                <p>- Blockchain Solution Consulting</p>
+                <p>- Cryptocurrency Wallet</p>
+                <p>- Decentralized Exchange Development</p>
+                <p>- Personalized Web Analytics for E-currency</p>
+                <p>- Trading bots for E-currency</p>
+                <p>- Smart Contracts, E-wallet & Exchange Programs</p>
+                <p>- Modern CI/CD tools</p>
+                <br />
+                <p>We help companies build secure enterprise solutions with the most efficient distributed ledger technologies. Our software engineers utilize all large tech stack - Distributed Ledger Technologies (DLTs), including Ethereum Platform, Smart Contracts, and blockchain-related programming languages including Java, Go, and Solidity.</p>
               </span>
             ),
           },
@@ -187,10 +184,12 @@ export const Content30DataSource = {
             className: 'content3-content',
             children: (
               <span>
-                <p>Keyword research</p>
-                <p>Site audit SEO</p>
-                <p>Position tracking</p>
-                <p>QA testing for web &amp; app</p>
+                <p>- Keyword research</p>
+                <p>- Site audit SEO</p>
+                <p>- Position tracking</p>
+                <p>- QA testing for web & app</p>
+                <br />
+                <p>Are you looking to increase your online visibility and drive more traffic to your website? Our digital marketing and SEO services are designed to help businesses achieve their goals. We offer a range of services including keyword research, on-page optimization, link building, and more. Our team of experienced digital marketers can help you create a comprehensive digital marketing strategy that will help you achieve your business goals.</p>
               </span>
             ),
           },
@@ -220,9 +219,14 @@ export const Content30DataSource = {
             className: 'content3-content',
             children: (
               <span>
-                <p>iOS and android development</p>
-                <p>Native and cross-platform</p>
-                <p>Modern CI/CD tools</p>
+                <p>- iOS Application Development</p>
+                <p>- Android Application Development</p>
+                <p>- Hybrid Application Development</p>
+                <p>- React-native Application Development</p>
+                <p>- Ionic Development</p>
+                <p>- Modern CI/CD tools</p>
+                <br />
+                <p>Build well-designed and optimized custom mobile applications. Optimum solutions for native and cross-platform mobile application development that helps to discover mobility with an innovative, unique and scalable approach. Our expertise with cross-platform mobile apps helps you create a roadmap based on a solid mobile strategy that successfully leads the way to your final enterprise goals and expectations. The mobile application will remain scalable with your business needs.</p>
               </span>
             ),
           },
@@ -252,9 +256,11 @@ export const Content30DataSource = {
             className: 'content3-content',
             children: (
               <span>
-                <p>Design Logo</p>
-                <p>Design Banner</p>
-                <p>Design Branding Merchandise</p>
+                <p>- Design Logo</p>
+                <p>- Design Banner</p>
+                <p>- Design Branding Merchandise</p>
+                <br />
+                <p>Our team of experienced graphic designers can help you create stunning designs for your business that will help you stand out from your competitors.</p>
               </span>
             ),
           },
@@ -284,10 +290,14 @@ export const Content30DataSource = {
             className: 'content3-content',
             children: (
               <span>
-                <p>Design Audit</p>
-                <p>Sitemap &amp; userflow</p>
-                <p>User experience design</p>
-                <p>User interface design</p>
+                <p>- Creative Design Strategy</p>
+                <p>- UX Review and Analysis</p>
+                <p>- Front-end Development</p>
+                <p>- Clickable Prototypes</p>
+                <p>- Responsive Designs & Layout</p>
+                <p>- Mobile UI/UX</p>
+                <br />
+                <p>We embrace Design Thinking and innovation - our expert UI/UX designers ensure that they have the right mindsets, collaborative teams, and conducive environments. When we align our mindsets, skills and environments, we are able to create innovative designs that allow our designs to survive the disruptions the technology might face in the near future. We keep in mind a deep desire to create a better user experience for the world around us and our designers strive to deliver beautiful and usable products that solve user problems and help you achieve your business goal.</p>
               </span>
             ),
           },
